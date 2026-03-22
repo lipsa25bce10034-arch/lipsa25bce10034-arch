@@ -1,27 +1,17 @@
 ## Hi, I'm Lipsa Rani Panda 👋
- B.Tech CSE Student | VIT Bhopal University  
- Aspiring Software Developer  
- India  
+    
+
+ 
 
 
 ##  About Me
-I am a first-year Computer Science student and currently building my foundation in programming, problem-solving, and software development.
+I am a first-year Computer Science engineering student at VIT Bhopal University and currently building my foundation in programming, problem-solving, and software development.
 
 ##  Goals
 - Strengthen my coding skills  
 - Build real-world projects  
 - Explore different domains in technology  
 - Become a proficient software developer  
-
-## Skills (Learning Phase)
-- Programming Basics (C++/ Python)  
-- Problem Solving  
-- Git & GitHub  
-
-## Future Plans
-- Contribute to open-source projects  
-- Learn Data Structures & Algorithms  
-- Gain internship experience  
 
 ##  Motto
 "Consistency and learning every day lead to success."
